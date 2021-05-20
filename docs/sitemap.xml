@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/sumonbis/blog/posts/my-first-post/</loc>
+    <loc>https://sumonbis.github.com/blog/posts/my-first-post/</loc>
     <lastmod>2021-05-19T21:07:18-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/sumonbis/blog/posts/</loc>
+    <loc>https://sumonbis.github.com/blog/posts/</loc>
     <lastmod>2021-05-19T21:07:18-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/sumonbis/blog/</loc>
+    <loc>https://sumonbis.github.com/blog/</loc>
     <lastmod>2021-05-19T21:07:18-05:00</lastmod>
   </url><url>
-    <loc>https://github.com/sumonbis/blog/categories/</loc>
+    <loc>https://sumonbis.github.com/blog/categories/</loc>
   </url><url>
-    <loc>https://github.com/sumonbis/blog/tags/</loc>
+    <loc>https://sumonbis.github.com/blog/tags/</loc>
   </url>
 </urlset>

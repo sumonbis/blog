@@ -1,0 +1,29 @@
+# baseURL = "https://github.com/sumonbis/blog"
+languageCode = "en-us"
+title = "Sumon Biswas"
+# theme = "hyde"
+theme = ["hyde"]
+# tags = ["blog", "research"]
+# features = ["blog", "diary", "profile"]
+license = "MIT"
+# licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
+publishDir = "docs"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/sumonbis"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/sumonb"}
+  ]
+
+[params]
+  description = "Ph.D. Candidate, Iowa State University"
+  themeColor = "theme-base-0f"
+  # layoutReverse = true
+
+
+
+
+
+# disqusShortname = "spf13"
+#googleAnalytics = "Your tracking code"
+# paginate = 5000 #frontpage pagination

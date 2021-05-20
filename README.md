@@ -1,2 +1,2 @@
-# blog
-This is the source of personal blog website.
+# Blog Website
+This repository contains the source of personal blog website. 

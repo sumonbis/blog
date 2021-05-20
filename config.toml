@@ -1,4 +1,4 @@
-# baseURL = "https://github.com/sumonbis/blog"
+baseURL = "https://github.com/sumonbis/blog"
 languageCode = "en-us"
 title = "Sumon Biswas"
 # theme = "hyde"
